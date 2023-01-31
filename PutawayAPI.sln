@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PutawayAPI", "PutawayAPI\PutawayAPI.csproj", "{671038E8-C994-478B-BAF6-B2D370A8C3E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PutawayDataAccess", "PutawayDataAccess\PutawayDataAccess.csproj", "{2A975BB3-2C6D-4E42-8A39-F00C5CD1CC20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PutawayBusiness", "PutawayBusiness\PutawayBusiness.csproj", "{847BC133-3D77-4981-B48E-C5B20377DF16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InboundDataAccess", "InboundDataAccess\InboundDataAccess.csproj", "{7031623F-F634-4FF6-9664-55BFFA7778C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671038E8-C994-478B-BAF6-B2D370A8C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671038E8-C994-478B-BAF6-B2D370A8C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671038E8-C994-478B-BAF6-B2D370A8C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671038E8-C994-478B-BAF6-B2D370A8C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A975BB3-2C6D-4E42-8A39-F00C5CD1CC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A975BB3-2C6D-4E42-8A39-F00C5CD1CC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A975BB3-2C6D-4E42-8A39-F00C5CD1CC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A975BB3-2C6D-4E42-8A39-F00C5CD1CC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847BC133-3D77-4981-B48E-C5B20377DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847BC133-3D77-4981-B48E-C5B20377DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847BC133-3D77-4981-B48E-C5B20377DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847BC133-3D77-4981-B48E-C5B20377DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7031623F-F634-4FF6-9664-55BFFA7778C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7031623F-F634-4FF6-9664-55BFFA7778C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7031623F-F634-4FF6-9664-55BFFA7778C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7031623F-F634-4FF6-9664-55BFFA7778C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73431F7-DF92-421C-BC60-D2D664ACC68F}
+	EndGlobalSection
+EndGlobal
